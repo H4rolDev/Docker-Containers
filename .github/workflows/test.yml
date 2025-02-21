@@ -1,5 +1,4 @@
-name: Prueba num 1
-
+name: Prueba 
 on:
   push:
     branches:
